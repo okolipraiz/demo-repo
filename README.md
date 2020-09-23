@@ -8,4 +8,4 @@ Watch tutorial on Youtube.
 
 ## Local Development
 
-1. open Index.html in your broswer and 
+1. open Index.html in your broswer and apps
