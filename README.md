@@ -1,6 +1,6 @@
 # Demo
 
-mastering git/git hub fully.
+mastering git/git-hub fully.
 
 ## Subheader
 
