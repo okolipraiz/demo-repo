@@ -1,6 +1,6 @@
 # Demo
 
-agozirim is handsome a boy
+mastering git/git-hub fully.
 
 ## Subheader
 
@@ -8,4 +8,4 @@ Watch tutorial on Youtube.
 
 ## Local Development
 
-1. open Index.html in your broswer and apps
+1. open Index.html in your broswer and search engine
